@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="Hotels.xsd">
+  <Hotel id="H001" Rating="4.2">
+    <Name>Westin Tempe</Name>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+  </Hotel>
+
+  <Hotel id="H002" Rating="4.4">
+    <Name>Canopy by Hilton Tempe Downtown</Name>
+    <Address NearestAirport="Sky Harbor">
+      <Number>108</Number>
+      <Street>E University St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+    <Phone>480-968-6800</Phone>
+  </Hotel>
+
+  <Hotel id="H003" Rating="4.1">
+    <Name>Embassy Suites by Hilton Los Angeles Glendale</Name>
+    <Address NearestAirport="Hollywood Burbank">
+      <Number>800</Number>
+      <Street>N Central Ave</Street>
+      <City>Glendale</City>
+      <State>CA</State>
+      <Zip>91203</Zip>
+    </Address>
+    <Phone>818-550-0828</Phone>
+  </Hotel>
+
+  <Hotel id="H004">
+    <Name>Embassy Suites by Hilton Palmdale</Name>
+    <Address NearestAirport="Hollywood Burbank">
+      <Number>39375</Number>
+      <Street>5th St. West</Street>
+      <City>Palmadle</City>
+      <State>CA</State>
+      <Zip>93551</Zip>
+    </Address>
+    <Phone>661-226-3756</Phone>
+  </Hotel>
+
+  <Hotel id="H005" Rating="4.1">
+    <Name>Hampton Inn & Suites Seattle-Downtown</Name>
+    <Address NearestAirport="Seattle Tacoma">
+      <Number>700</Number>
+      <Street>5th Ave N</Street>
+      <City>Seattle</City>
+      <State>WA</State>
+      <Zip>98109</Zip>
+    </Address>
+    <Phone>206-282-7700</Phone>
+  </Hotel>
+
+  <Hotel id="H006" Rating="4.5">
+    <Name>Residence Inn by Marriott Seattle/South Renton</Name>
+    <Address NearestAirport="Seattle Tacoma">
+      <Number>1200</Number>
+      <Street>Lake Washington Blvd N</Street>
+      <City>Renton</City>
+      <State>WA</State>
+      <Zip>98056</Zip>
+    </Address>
+    <Phone>425-687-0485</Phone>
+  </Hotel>
+
+  <Hotel id="H007">
+    <Name>Crowne Plaza Louisville Airport Expo Center</Name>
+    <Address>
+      <Number>601</Number>
+      <Street>S Ash Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+    <Phone>480-966-2800</Phone>
+  </Hotel>
+
+  <Hotel id="H008" Rating="4.0">
+    <Name>Embassy Suites by Hilton Tempe</Name>
+    <Address NearestAirport="LouisvilleMuhammadAli>
+      <Number>830</Number>
+      <Street>Phillips Ln</Street>
+      <City>Louisville</City>
+      <State>KY</State>
+      <Zip>40209</Zip>
+    </Address>
+    <Phone>502-367-2251</Phone>
+  </Hotel>
+
+  <Hotel id="H009">
+    <Name>Hale Koa Hotel</Name>
+    <Address Nearest Airport="Daniel K. Inouye Honolulu">
+      <Number>2055</Number>
+      <Street>Kalia Road</Street>
+      <City>Honolulu</City>
+      <State>HI</State>
+      <Zip>96815</Zip>
+    </Address>
+    <Phone>808-955-0555</Phone>
+  </Hotel>
+
+  <Hotel id="H010" Rating="3.0">
+    <Name>Hilton Garden Inn Princeton Lawrenceville</Name>
+    <Address NearestAirport="Philadelphia">
+      <Number>1300</Number>
+      <Street>Lenox Drive</Street>
+      <City>Lawrenceville</City>
+      <State>NJ</State>
+      <Zip>08648</Zip>
+    </Address>
+    <Phone>609-895-9200</Phone>
+  </Hotel>
+
+  <Hotel id="H011" Rating="4.3">
+    <Name>Home2Suites by Hilton Denver International Airport</Name>
+    <Address NearestAirport="Denver">
+      <Number>6792</Number>
+      <Street>Tower Rd</Street>
+      <City>Denver</City>
+      <State>CO</State>
+      <Zip>80249</Zip>
+    </Address>
+    <Phone>303-307-4444</Phone>
+  </Hotel>
+</Hotels>
