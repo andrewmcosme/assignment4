@@ -43,7 +43,7 @@
     <Address NearestAirport="Hollywood Burbank">
       <Number>39375</Number>
       <Street>5th St. West</Street>
-      <City>Palmdle</City>
+      <City>Palmdale</City>
       <State>CA</State>
       <Zip>93551</Zip>
     </Address>
@@ -51,7 +51,7 @@
   </Hotel>
 
   <Hotel id="H005" Rating="4.1">
-    <Name>Hampton Inn & Suites Seattle-Downtown</Name>
+    <Name>Hampton Inn &amp; Suites Seattle-Downtown</Name>
     <Address NearestAirport="Seattle Tacoma">
       <Number>700</Number>
       <Street>5th Ave N</Street>
@@ -75,20 +75,20 @@
   </Hotel>
 
   <Hotel id="H007">
-    <Name>Crowne Plaza Louisville Airport Expo Center</Name>
+    <Name>Hilton Garden Inn Greensboro</Name>
     <Address>
-      <Number>601</Number>
-      <Street>S Ash Ave</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85281</Zip>
+      <Number>4307</Number>
+      <Street>Big Tree Way</Street>
+      <City>Greensboro</City>
+      <State>NC</State>
+      <Zip>27409</Zip>
     </Address>
-    <Phone>480-966-2800</Phone>
+    <Phone>336-852-1491</Phone>
   </Hotel>
 
   <Hotel id="H008" Rating="4.0">
-    <Name>Embassy Suites by Hilton Tempe</Name>
-    <Address NearestAirport="LouisvilleMuhammadAli>
+    <Name>Crowne Plaza Louisville Airport Expo Center</Name>
+    <Address NearestAirport="LouisvilleMuhammadAli">
       <Number>830</Number>
       <Street>Phillips Ln</Street>
       <City>Louisville</City>
@@ -100,7 +100,7 @@
 
   <Hotel id="H009">
     <Name>Hale Koa Hotel</Name>
-    <Address Nearest Airport="Daniel K. Inouye Honolulu">
+    <Address NearestAirport="Daniel K. Inouye Honolulu">
       <Number>2055</Number>
       <Street>Kalia Road</Street>
       <City>Honolulu</City>
