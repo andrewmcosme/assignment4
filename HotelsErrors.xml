@@ -78,22 +78,23 @@
     <Phone>425-687-0485</Phone>
   </Hotel>
 
-<!-- 5. Duplicate names
+
   <Hotel id="H007">
-    <Name>Crowne Plaza Louisville</Name>
-    <Name>Crowne Plaza Louisville Airport Expo Center</Name>
+    <Name>Hilton Garden Inn Greensboro</Name>
     <Address>
-      <Number>601</Number>
-      <Street>S Ash Ave</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85281</Zip>
+      <Number>4307</Number>
+      <Street>Big Tree Way</Street>
+      <City>Greensboro</City>
+      <State>NC</State>
+      <Zip>27409</Zip>
     </Address>
-    <Phone>480-966-2800</Phone>
+    <Phone>336-852-1491</Phone>
   </Hotel>
 
+<!-- 5. Duplicate names
   <Hotel id="H008" Rating="4.0">
-    <Name>Embassy Suites by Hilton Tempe</Name>
+    <Name>Crowne Plaza Louisville</Name>
+    <Name>Crowne Plaza Louisville Airport Expo Center</Name>
     <Address NearestAirport="LouisvilleMuhammadAli>
       <Number>830</Number>
       <Street>Phillips Ln</Street>
@@ -106,7 +107,7 @@
 
   <Hotel id="H009">
     <Name>Hale Koa Hotel</Name>
-    <Address Nearest Airport="Daniel K. Inouye Honolulu">
+    <Address NearestAirport="Daniel K. Inouye Honolulu">
       <Number>2055</Number>
       <Street>Kalia Road</Street>
       <City>Honolulu</City>
