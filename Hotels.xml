@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:noNamespaceSchemaLocation="Hotels.xsd">
+        xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/andrewmcosme/assignment4/main/Hotels.xsd">
+
   <Hotel id="H001" Rating="4.2">
     <Name>Westin Tempe</Name>
     <Address NearestAirport="Sky Harbor">
@@ -42,7 +43,7 @@
     <Name>Embassy Suites by Hilton Palmdale</Name>
     <Address NearestAirport="Hollywood Burbank">
       <Number>39375</Number>
-      <Street>5th St. West</Street>
+      <Street>5th St West</Street>
       <City>Palmdale</City>
       <State>CA</State>
       <Zip>93551</Zip>
@@ -51,7 +52,7 @@
   </Hotel>
 
   <Hotel id="H005" Rating="4.1">
-    <Name>Hampton Inn &amp; Suites Seattle-Downtown</Name>
+    <Name>Hampton Inn & Suites Seattle-Downtown</Name>
     <Address NearestAirport="Seattle Tacoma">
       <Number>700</Number>
       <Street>5th Ave N</Street>
@@ -75,20 +76,8 @@
   </Hotel>
 
   <Hotel id="H007">
-    <Name>Hilton Garden Inn Greensboro</Name>
-    <Address>
-      <Number>4307</Number>
-      <Street>Big Tree Way</Street>
-      <City>Greensboro</City>
-      <State>NC</State>
-      <Zip>27409</Zip>
-    </Address>
-    <Phone>336-852-1491</Phone>
-  </Hotel>
-
-  <Hotel id="H008" Rating="4.0">
     <Name>Crowne Plaza Louisville Airport Expo Center</Name>
-    <Address NearestAirport="LouisvilleMuhammadAli">
+    <Address NearestAirport="Louisville Muhammad Ali">
       <Number>830</Number>
       <Street>Phillips Ln</Street>
       <City>Louisville</City>
@@ -98,7 +87,7 @@
     <Phone>502-367-2251</Phone>
   </Hotel>
 
-  <Hotel id="H009">
+  <Hotel id="H008" Rating="4.0">
     <Name>Hale Koa Hotel</Name>
     <Address NearestAirport="Daniel K. Inouye Honolulu">
       <Number>2055</Number>
@@ -110,7 +99,7 @@
     <Phone>808-955-0555</Phone>
   </Hotel>
 
-  <Hotel id="H010" Rating="3.0">
+  <Hotel id="H009" Rating="3.0">
     <Name>Hilton Garden Inn Princeton Lawrenceville</Name>
     <Address NearestAirport="Philadelphia">
       <Number>1300</Number>
@@ -122,7 +111,7 @@
     <Phone>609-895-9200</Phone>
   </Hotel>
 
-  <Hotel id="H011" Rating="4.3">
+  <Hotel id="H010" Rating="4.3">
     <Name>Home2Suites by Hilton Denver International Airport</Name>
     <Address NearestAirport="Denver">
       <Number>6792</Number>
@@ -133,4 +122,5 @@
     </Address>
     <Phone>303-307-4444</Phone>
   </Hotel>
+
 </Hotels>
